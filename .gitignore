@@ -1,0 +1,9 @@
+debug
+debug.test
+main
+*.m4s
+*.mp4
+/example/ppd/server/dash.js/node_modules
+/example/ppd/server/dash.js/.git()
+# /example
+.git()
