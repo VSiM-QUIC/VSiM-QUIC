@@ -9,7 +9,8 @@
 
 ## Dataset
 Please download the video from https://dash.itec.aau.at/dash-dataset/
-and put the video contents to the directory /[example](https://github.com/VSiM-QUIC/VSiM-QUIC/tree/master/example)/[ppd](https://github.com/VSiM-QUIC/VSiM-QUIC/tree/master/example/ppd)/[server](https://github.com/VSiM-QUIC/VSiM-QUIC/tree/master/example/ppd/server)/**media**/
+
+Put the video contents to the directory /[example](https://github.com/VSiM-QUIC/VSiM-QUIC/tree/master/example)/[ppd](https://github.com/VSiM-QUIC/VSiM-QUIC/tree/master/example/ppd)/[server](https://github.com/VSiM-QUIC/VSiM-QUIC/tree/master/example/ppd/server)/**media**/
 
   
 We are using the dataset of [Big Buck Bunny](http://ftp.itec.aau.at/datasets/DASHDataset2014/BigBuckBunny/)
