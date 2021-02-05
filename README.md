@@ -28,7 +28,7 @@ We are using the dataset of [Big Buck Bunny](http://ftp.itec.aau.at/datasets/DAS
 
   
 
-<img  src="docs/quic.png"  width=150  height=60>
+<!-- <img  src="docs/quic.png"  width=150  height=60>
 
   
 
@@ -38,7 +38,7 @@ We are using the dataset of [Big Buck Bunny](http://ftp.itec.aau.at/datasets/DAS
 
 [![Windows Build Status](https://img.shields.io/appveyor/ci/lucas-clemente/quic-go/master.svg?style=flat-square&label=windows+build)](https://ci.appveyor.com/project/lucas-clemente/quic-go/branch/master)
 
-[![Code Coverage](https://img.shields.io/codecov/c/github/lucas-clemente/quic-go/master.svg?style=flat-square)](https://codecov.io/gh/lucas-clemente/quic-go/)
+[![Code Coverage](https://img.shields.io/codecov/c/github/lucas-clemente/quic-go/master.svg?style=flat-square)](https://codecov.io/gh/lucas-clemente/quic-go/) -->
 
   
 
